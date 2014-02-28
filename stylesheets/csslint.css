@@ -1,5 +1,5 @@
-.csslint {
-    height: 150px;
+.csslint .panel-body {
+    max-height: 200px;
     overflow-y: scroll;
 }
 
@@ -11,4 +11,8 @@
 
 .csslint address:after {
     content: ': '
+}
+
+.csslint .close {
+    margin-top: -5px;
 }
