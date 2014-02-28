@@ -1,0 +1,14 @@
+.csslint {
+    height: 150px;
+    overflow-y: scroll;
+}
+
+.csslint address {
+    display: inline;
+    margin-right: 5px;
+    color: red;
+}
+
+.csslint address:after {
+    content: ': '
+}
