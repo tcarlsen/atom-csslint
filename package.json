@@ -4,15 +4,14 @@
   "version": "0.2.0",
   "private": true,
   "description": "CSSLint error reports for your Atom editor",
-  "activationEvents": [
-    "csslint"
-  ],
   "repository": "https://github.com/tcarlsen/atom-csslint",
+  "author": "tcarlsen",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
   "dependencies": {
-    "csslint": "^0.10.0"
+    "csslint": "^0.10.0",
+    "atom-message-panel": ">=0.1.0"
   }
 }
