@@ -1,5 +1,5 @@
 {
-    ".editor": {
-        "cmd-alt-c": "csslint"
+    ".editor.css": {
+        "cmd-alt-l": "csslint"
     }
 }
