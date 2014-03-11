@@ -1,4 +1,10 @@
 
+0.3.2 / 2014-03-11
+==================
+
+ * changed the keymap to `cmd-alt-l`
+ * now using [atom-keymap-plus](https://github.com/tcarlsen/atom-keymap-plus)
+
 0.3.0 / 2014-03-11
 ==================
 
