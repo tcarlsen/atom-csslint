@@ -13,6 +13,7 @@
   "dependencies": {
     "csslint": "^0.10.0",
     "atom-message-panel": ">=0.1.0",
-    "atom-keymap-plus": "^0.1.0"
+    "atom-keymap-plus": "^0.1.0",
+    "loophole": "^1.0.0"
   }
 }
