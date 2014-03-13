@@ -1,4 +1,9 @@
 
+0.3.3 / 2014-03-13
+==================
+
+ * now using [loophole](https://github.com/atom/loophole) to allow CCSLint to use eval
+
 0.3.2 / 2014-03-11
 ==================
 
