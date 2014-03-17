@@ -1,5 +1,5 @@
 {
     ".editor.css": {
-        "cmd-alt-l": "csslint"
+        "cmd-alt-l": "csslint:lint"
     }
 }
