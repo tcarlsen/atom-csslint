@@ -1,4 +1,13 @@
 
+0.4.0 / 2014-03-17
+==================
+
+ * adding a little bug *(the good kind)*
+ * adding the option to hide on no errors
+ * adding the option to use fold mode by default
+ * adding line indicators
+ * updating [atom-message-panel](https://github.com/tcarlsen/atom-message-panel) to 0.3.0
+
 0.3.3 / 2014-03-13
 ==================
 
