@@ -1,10 +1,15 @@
 
-0.4.4 / 2014-04-30 
+0.5.0 / 2014-05-14
+==================
+
+ * adding support for windows and linux
+
+0.4.4 / 2014-04-30
 ==================
 
  * fix for the line indicator bug
 
-0.4.3 / 2014-04-08 
+0.4.3 / 2014-04-08
 ==================
 
  * adding line support for warnings
