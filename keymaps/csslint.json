@@ -1,5 +1,8 @@
 {
-    ".editor.css": {
+    ".platform-darwin .editor.css": {
         "cmd-alt-l": "csslint:lint"
+    },
+    ".platform-win32 .editor.css, .platform-linux .editor.css": {
+        "ctrl-alt-l": "csslint:lint"
     }
 }
