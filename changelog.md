@@ -1,4 +1,13 @@
 
+1.0.0 / 2015-01-20
+==================
+
+  * total rewriting
+  * updating the README to match the new rewrite
+  * removing static preview image
+  * adding LICENSE
+  * adding .editorconfig
+
 0.5.1 / 2014-05-22
 ==================
 
