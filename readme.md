@@ -2,7 +2,7 @@
 
 > [CSSLint](https://github.com/stubbornella/csslint) error reports for your [Atom](http://atom.io) editor.
 
-![preview](https://cloud.githubusercontent.com/assets/145288/5814710/d51fef10-a08e-11e4-8be3-9459589234c4.png)
+![preview](https://cloud.githubusercontent.com/assets/145288/5824124/9d6ddf2e-a0e2-11e4-8732-ef75c38c51d1.png)
 
 
 ## Installation
