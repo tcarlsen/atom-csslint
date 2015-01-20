@@ -1,6 +1,6 @@
 {
   "name": "csslint",
-  "main": "./lib/init",
+  "main": "./lib/main",
   "version": "0.5.1",
   "private": true,
   "description": "CSSLint error reports for your Atom editor",
@@ -8,12 +8,11 @@
   "author": "tcarlsen",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">0.174.0"
   },
   "dependencies": {
     "csslint": "^0.10.0",
-    "atom-message-panel": "^0.3.0",
-    "atom-keymap-plus": "^0.1.0",
+    "atom-message-panel": "^1.1.4",
     "loophole": "^1.0.0"
   }
 }
