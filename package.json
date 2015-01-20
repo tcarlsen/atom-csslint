@@ -1,7 +1,7 @@
 {
   "name": "csslint",
   "main": "./lib/main",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "description": "CSSLint error reports for your Atom editor",
   "repository": "https://github.com/tcarlsen/atom-csslint",
