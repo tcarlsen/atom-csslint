@@ -4,7 +4,7 @@ fs = require("fs")
 module.exports = ->
   defaultConfigPath = path.normalize(path.join(process.env.HOME or process.env.HOMEPATH, ".csslintrc"))
   projectConfigPath = path.normalize(path.join(atom.project.getPath(), ".csslintrc"))
-  config = {}
+  config = null
 
   try
     config = JSON.parse(fs.readFileSync(defaultConfigPath, "utf-8"))
