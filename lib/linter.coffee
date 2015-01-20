@@ -18,7 +18,8 @@ module.exports = ->
 
   messages.clear()
   messages.attach()
-  messages.toggle() if atom.config.get "csslint.useFoldModeAsDefault"
+  if atom.config.get("csslint.useFoldModeAsDefault") and messages.summary.css("display") is "none"
+    messages.toggle()
 
   if result.messages.length is 0
     atom.config.observe "csslint.hideOnNoErrors", (value) ->
