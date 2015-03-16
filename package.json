@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "csslint": "^0.10.0",
-    "atom-message-panel": "^1.1.4",
+    "atom-message-panel": "1.2.2",
     "loophole": "^1.0.0"
   }
 }
