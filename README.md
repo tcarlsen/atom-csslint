@@ -1,5 +1,9 @@
 # CSSLint
 
+![](https://img.shields.io/apm/v/csslint.svg)
+![](https://img.shields.io/apm/dm/csslint.svg)
+![](https://img.shields.io/apm/l/csslint.svg)
+
 > [CSSLint](https://github.com/stubbornella/csslint) error reports for your [Atom](http://atom.io) editor.
 
 ![preview](https://cloud.githubusercontent.com/assets/145288/5824124/9d6ddf2e-a0e2-11e4-8732-ef75c38c51d1.png)
