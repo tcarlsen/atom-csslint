@@ -23,6 +23,8 @@ CSSLint is by default validating on save (this can be changed in the package set
 
 If you like you can even set it to validate while typing in the package settings.
 
+A global [.csslintrc](https://github.com/ebednarz/csslintrc/blob/master/.csslintrc) config file can be placed in your home folder and used in any project. However you can specify a project .csslintrc config file (found in root folder of project) that takes precedence over the global file.
+
 ## Features
 
  * Validate on keymap (`ctrl-alt-l`)
@@ -31,7 +33,7 @@ If you like you can even set it to validate while typing in the package settings
  * Validate on change *(toggle in settings)*
  * Option to hide the error panel if no errors were found *(toggle in settings)*
  * Option to use `fold mode` by default *(toggle in settings)*
- * Supports [.csslintrc](https://github.com/ebednarz/csslintrc/blob/master/.csslintrc) config files *(project located file will overwrite the global file)*
+ * Supports [.csslintrc](https://github.com/ebednarz/csslintrc/blob/master/.csslintrc) config files *(project located file takes precedence over the global file)*
 
 ## License
 
