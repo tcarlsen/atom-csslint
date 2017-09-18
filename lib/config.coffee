@@ -1,8 +1,9 @@
 path = require("path")
 fs = require("fs")
+os = require("os")
 
 module.exports = ->
-  defaultConfigPath = path.normalize(path.join(process.env.HOME or process.env.HOMEPATH, ".csslintrc"))
+  defaultConfigPath = path.normalize(path.join(os.homedir(), ".csslintrc"))
   projectConfigPath = path.normalize(path.join(atom.project.getPaths()[0], ".csslintrc"))
   config = null
 
